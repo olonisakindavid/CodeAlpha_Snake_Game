@@ -4,7 +4,7 @@ A simple Snake game implemented in Python using the Turtle module.
 
 # Video Demonstration
 
-![ezgif com-video-to-gif](https://github.com/olonisakindavid/CodeAlpha_Snake_Game/assets/66315270/bc6140bf-27c4-4584-8641-4a34f8040c34)
+![ezgif com-crop](https://github.com/olonisakindavid/CodeAlpha_Snake_Game/assets/66315270/8462b0b3-6c92-4457-bbaf-5a6b72021613)
 
 ## Description
 
